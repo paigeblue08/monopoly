@@ -35,7 +35,7 @@ function Card(text, action) {
 }
 
 function corrections() {
-	document.getElementById("cell1name").textContent = "Mediter-ranean Avenue";
+	document.getElementById("cell1name").textContent = "Suriname";
 	
 	// Add images to enlarges.
 	document.getElementById("enlarge1token").innerHTML += '<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pedro_de_Valdivia.jpg" height="60" width="65" alt="" style="position: relative; bottom: 20px;" />';
